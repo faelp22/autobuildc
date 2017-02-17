@@ -1,0 +1,5 @@
+AC_INIT(teste.c)
+AM_INIT_AUTOMAKE(teste,0.1)
+AC_PROG_CC
+AC_PROG_INSTALL
+AC_OUTPUT(Makefile)
